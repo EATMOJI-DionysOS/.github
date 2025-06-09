@@ -32,17 +32,14 @@
 
 ## ⚙️ 배포 상태 및 API 엔드포인트
 
-✅ 현재 Eatmoji 서비스는 **AWS EC2 서버**에서 배포·운영되고 있습니다.
+✅ 현재 Eatmoji 서비스는 **FE는 Vercel, BE는 AWS EC2**에서 배포·운영되고 있습니다.
 
-| 기능                  | 엔드포인트                                                  |
+| 기능                  | 주소                                                  |
 |-----------------------|-------------------------------------------------------------|
 | Eatmoji 실행 링크     | `eatmoji-fe.vercel.app`                                      |
-| 일반 이모지 기반 추천  | `http://3.37.53.72:8080/api/recommend/emoji`                |
-| 일반 개인화 추천       | `http://3.37.53.72:8080/api/recommend/personalized`         |
-| 이모지 개인화 추천     | `http://3.37.53.72:8080/api/recommend/emoji/login`          |
 | Swagger 문서          | `http://3.37.53.72:8080/swagger-ui/index.html`              |
 
-👉 **사용자는 위 API 엔드포인트를 통해 서비스를 바로 사용할 수 있습니다.**
+👉 **사용자는 위 링크를 통해 서비스를 바로 사용할 수 있습니다.**
 
 ---
 
@@ -54,7 +51,7 @@
 <img src="https://img.shields.io/badge/SpringBoot-61BA55?style=for-the-badge&logo=SpringBoot&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-2BA498?style=for-the-badge&logo=FastAPI&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-4AB349?style=for-the-badge&logo=MongoDB&logoColor=white">
 
 ### ✔️Distribution
-<img src="https://img.shields.io/badge/AWS EC2-FFFFFF?style=for-the-badge&logo=AWS&logoColor=white"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/AWS EC2-FFFFFF?style=for-the-badge&logo=AWS&logoColor=white">
 
 ### ✔️AI
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=OpenAI&logoColor=white"><img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
