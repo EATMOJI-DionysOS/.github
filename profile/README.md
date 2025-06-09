@@ -63,13 +63,42 @@
 
 ## Developer
 
-### 팀 구성원 및 역할
-| 이름   | 역할                                               | GitHub 닉네임                            |
-| ------ | ------------------------------------------------- | ---------------------------------------- |
-| 고준섭 | 백엔드 개발, AI API 활용 데이터 처리, AWS EC2 배포   | [sseobi16](https://github.com/sseobi16)  |
-| 김진하 | 백엔드 개발, AI API 활용 데이터 처리, 문서화         | [jinha0907](https://github.com/jinha0907)|
-| 라희수 | 서비스 기획, PM, UI/UX 디자인, 프론트엔드 개발       | [Head-ddy](https://github.com/Head-ddy)  |
-| 이민규 | 서비스 기획, 백엔드 개발, AWS 보안 설정              | [mingyulee327](https://github.com/mingyulee327) |
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/sseobi16">
+          <img src="https://avatars.githubusercontent.com/sseobi16" width="100px;" alt="고준섭 프로필"/><br />
+          <sub><b>고준섭</b></sub><br />
+          <sub>백엔드 개발<br />AI 처리 · EC2 배포</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jinha0907">
+          <img src="https://avatars.githubusercontent.com/jinha0907" width="100px;" alt="김진하 프로필"/><br />
+          <sub><b>김진하</b></sub><br />
+          <sub>백엔드 개발<br />AI 처리 · 문서화</sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Head-ddy">
+          <img src="https://avatars.githubusercontent.com/Head-ddy" width="100px;" alt="라희수 프로필"/><br />
+          <sub><b>라희수</b></sub><br />
+          <sub>PM · UI/UX 디자인<br />프론트엔드 개발</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/mingyulee327">
+          <img src="https://avatars.githubusercontent.com/mingyulee327" width="100px;" alt="이민규 프로필"/><br />
+          <sub><b>이민규</b></sub><br />
+          <sub>서비스 기획<br />백엔드 개발 · 보안 설정</sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 --- 
 
