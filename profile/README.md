@@ -80,8 +80,6 @@
           <sub>백엔드 개발<br />AI 처리 · 문서화</sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/Head-ddy">
           <img src="https://avatars.githubusercontent.com/Head-ddy" width="100px;" alt="라희수 프로필"/><br />
