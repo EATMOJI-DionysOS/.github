@@ -44,7 +44,8 @@
 ## 기술 스택
 
 ### ✔️Front-end
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white" /><img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /><img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" /><img src="https://img.shields.io/badge/React Icons-E91E63?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white" />
+<img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /><img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" /><img src="https://img.shields.io/badge/React Icons-E91E63?style=for-the-badge&logo=react&logoColor=white" />
 
 ### ✔️Back-end
 <img src="https://img.shields.io/badge/SpringBoot-61BA55?style=for-the-badge&logo=SpringBoot&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-2BA498?style=for-the-badge&logo=FastAPI&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-4AB349?style=for-the-badge&logo=MongoDB&logoColor=white">
@@ -57,6 +58,18 @@
 
 ### ✔️API document
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+
+--- 
+
+## Developer
+
+### 팀 구성원 및 역할
+| 이름   | 역할                                               | GitHub 닉네임                            |
+| ------ | ------------------------------------------------- | ---------------------------------------- |
+| 고준섭 | 백엔드 개발, AI API 활용 데이터 처리, AWS EC2 배포   | [sseobi16](https://github.com/sseobi16)  |
+| 김진하 | 백엔드 개발, AI API 활용 데이터 처리, 문서화         | [jinha0907](https://github.com/jinha0907)|
+| 라희수 | 서비스 기획, PM, UI/UX 디자인, 프론트엔드 개발       | [Head-ddy](https://github.com/Head-ddy)  |
+| 이민규 | 서비스 기획, 백엔드 개발, AWS 보안 설정              | [mingyulee327](https://github.com/mingyulee327) |
 
 --- 
 
