@@ -15,7 +15,7 @@
 
 ---
 
-## 서비스 이용 방법
+## 🛎️ 서비스 이용 방법
 
 1. 로그인을 안 한 경우
    
@@ -41,7 +41,7 @@
 
 ---
 
-## 기술 스택
+## 🛠️ 기술 스택
 
 ### ✔️Front-end
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><img src="https://img.shields.io/badge/React-9333EA?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Zustand-A0522D?style=for-the-badge&logo=Zustand&logoColor=white" />
@@ -62,7 +62,7 @@
 
 --- 
 
-## Developer
+## 👩‍💻 팀 구성원 및 역할
 
 <table>
   <tbody>
