@@ -57,7 +57,6 @@
 ### ✔️API document
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 
-</br>
 --- 
 
 > Made with ❤️ by Team DionysOS – 2025  
