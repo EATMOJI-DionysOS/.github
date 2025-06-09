@@ -36,6 +36,7 @@
 
 | 기능                  | 엔드포인트                                                  |
 |-----------------------|-------------------------------------------------------------|
+| Eatmoji 실행 링크     | 'eatmoji-fe.vercel.app'                                      |
 | 일반 이모지 기반 추천  | `http://3.37.53.72:8080/api/recommend/emoji`                |
 | 일반 개인화 추천       | `http://3.37.53.72:8080/api/recommend/personalized`         |
 | 이모지 개인화 추천     | `http://3.37.53.72:8080/api/recommend/emoji/login`          |
