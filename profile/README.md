@@ -84,14 +84,14 @@
         <a href="https://github.com/Head-ddy">
           <img src="https://avatars.githubusercontent.com/Head-ddy" width="100px;" alt="라희수 프로필"/><br />
           <sub><b>라희수</b></sub><br />
-          <sub>PM · UI/UX 디자인<br />프론트엔드 개발</sub>
+          <sub>프론트엔드 개발<br />PM · UI/UX 디자인</sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/mingyulee327">
           <img src="https://avatars.githubusercontent.com/mingyulee327" width="100px;" alt="이민규 프로필"/><br />
           <sub><b>이민규</b></sub><br />
-          <sub>서비스 기획<br />백엔드 개발 · 보안 설정</sub>
+          <sub>백엔드 개발<br />서비스 기획 · AWS 보안</sub>
         </a>
       </td>
     </tr>
