@@ -70,14 +70,21 @@
         <a href="https://github.com/sseobi16">
           <img src="https://avatars.githubusercontent.com/sseobi16" width="120px;" alt="고준섭 프로필"/><br />
           <sub><b>고준섭</b></sub><br />
-          <sub>백엔드 개발<br />AI 처리 · EC2 배포</sub>
+          <sub>백엔드 개발<br />
+             AWS EC2 배포<br />
+             DB 연동<br />
+             통합 API 개발<br />
+          </sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/jinha0907">
           <img src="https://avatars.githubusercontent.com/jinha0907" width="120px;" alt="김진하 프로필"/><br />
           <sub><b>김진하</b></sub><br />
-          <sub>백엔드 개발<br />AI 처리 · 문서화</sub>
+          <sub>백엔드 개발<br />
+             AI 추천 시스템 개발<br />
+             문서화 담당<br />
+          </sub>
         </a>
       </td>
       <td align="center">
@@ -91,7 +98,10 @@
         <a href="https://github.com/mingyulee327">
           <img src="https://avatars.githubusercontent.com/mingyulee327" width="120px;" alt="이민규 프로필"/><br />
           <sub><b>이민규</b></sub><br />
-          <sub>백엔드 개발<br />서비스 기획 · AWS 보안</sub>
+          <sub>백엔드 개발<br />
+             서비스 기획<br />
+             통합 API 개발<br />
+          </sub>
         </a>
       </td>
     </tr>
