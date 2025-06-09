@@ -91,7 +91,7 @@
         <a href="https://github.com/Head-ddy">
           <img src="https://avatars.githubusercontent.com/Head-ddy" width="120px;" alt="라희수 프로필"/><br />
           <sub><b>라희수</b></sub><br />
-          <sub>프론트엔드 개발<br />PM · UI/UX 디자인</sub>
+          <sub>프론트엔드 개발<br />PM<br />UI/UX 디자인</sub>
         </a>
       </td>
       <td align="center">
