@@ -1,7 +1,6 @@
 # 🍽️ Eatmoji 프로젝트
 
-
-<img src="https://github.com/user-attachments/assets/1aef44d0-4151-454d-86b3-0251b0e0d2a2" alt="moji" width="500"/>
+<img src="https://github.com/user-attachments/assets/0caa6bbd-8ae2-4935-ba5f-ac5d1991e9a6" alt="moji" width="500"/>
 
 
 **이모지를 이용한 사용자의 감정과 건강 정보를 기반으로 음식 메뉴를 추천하는 AI 기반 추천 시스템입니다.**
