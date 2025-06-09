@@ -56,3 +56,11 @@
 
 ### ✔️API document
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+
+
+</br>
+</br>
+
+> Made with ❤️ by Team DionysOS – 2025  
+> This project was created as part of the **Open Source Software Project** course.
+> 
