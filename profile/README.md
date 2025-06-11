@@ -22,6 +22,7 @@
    - 일반 이모지 기반 음식 추천만 가능합니다.
      
 2. 로그인을 한 경우
+   
    - 개인 프로필에 접근하여 본인의 알레르기, 선호 카테고리 등의 개인정보를 추가할 수 있습니다.
    - 추천 결과에 나온 좋아요 버튼을 누르면 해당 음식이 추후 추천 결과에 적용됩니다.
    - 로그인을 한 경우 이모지 기반 음식 추천 시 본인의 프로필과 히스토리를 반영한 개인화 추천이 가능합니다.
@@ -34,8 +35,8 @@
 
 | 기능                  | 주소                                                  |
 |-----------------------|-------------------------------------------------------------|
-| Eatmoji 실행 링크     | `eatmoji-fe.vercel.app`                                      |
-| Swagger 문서          | `http://3.37.53.72:8080/swagger-ui/index.html`              |
+| Eatmoji 실행 링크     | `https://eatmoji-fe.vercel.app`                                      |
+| Swagger 문서          | `https://3.37.53.72.nip.io/swagger-ui/index.html`              |
 
 👉 **사용자는 위 링크를 통해 서비스를 바로 사용할 수 있습니다.**
 
@@ -52,7 +53,10 @@
 <img src="https://img.shields.io/badge/Spring-61BA55?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/SpringBoot-8ED16A?style=for-the-badge&logo=SpringBoot&logoColor=white"><img src="https://img.shields.io/badge/Springsecurity-39A346?style=for-the-badge&logo=Springsecurity&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-2BA498?style=for-the-badge&logo=FastAPI&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-4AB349?style=for-the-badge&logo=MongoDB&logoColor=white">
 
 ### ✔️Development & Deployment Environment
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /><img src="https://img.shields.io/badge/Vercel-C71585?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/AWS EC2-FFFFFF?style=for-the-badge&logo=AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /><img src="https://img.shields.io/badge/Vercel-C71585?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/AWS EC2-FFFFFF?style=for-the-badge&logo=AWS&logoColor=white" /><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
+### ✔️Cloud Storage
+<img src="https://img.shields.io/badge/AWS S3-FFFFFF?style=for-the-badge&logo=aws&logoColor=white" />
 
 ### ✔️AI
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=OpenAI&logoColor=white"><img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
@@ -64,51 +68,71 @@
 
 ## 👩‍💻 팀 구성원 및 역할
 
-<table>
+<h2>🟩 주요 업무 분담</h2>
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>이름</th>
+      <th>역할</th>
+      <th>상세 내용</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td align="center">
-        <a href="https://github.com/sseobi16">
-          <img src="https://avatars.githubusercontent.com/sseobi16" width="220px;" alt="고준섭 프로필"/><br />
-          <sub><b>고준섭</b></sub><br />
-          <sub>백엔드 개발<br />
-             백엔드 서버 배포(AWS EC2)<br />
-             DB 연동<br />
-             레시피 API 개발<br />
-          </sub>
-        </a>
+      <td>고준섭</td>
+      <td>🟡 백엔드 개발, 배포 및 운영 관리</td>
+      <td>
+        <ul>
+          <li>Recipe API 개발</li>
+          <li>AWS 기반 MongoDB 연동</li>
+          <li>AWS EC2 기반 서버 배포</li>
+          <li>Github Action 기반 CI/CD 자동 배포</li>
+        </ul>
       </td>
-      <td align="center">
-        <a href="https://github.com/jinha0907">
-          <img src="https://avatars.githubusercontent.com/jinha0907" width="220px;" alt="김진하 프로필"/><br />
-          <sub><b>김진하</b></sub><br />
-          <sub>백엔드 개발<br />
-             데이터셋 전처리, 프롬프트 최적화<br/>
-             AI 추천 API 개발(FastAPI)<br/>
-             spring-fastapi 연동 API 개발<br/> 
-             프로젝트 문서화 담당<br />
-          </sub>
-        </a>
+    </tr>
+    <tr>
+      <td>김진하</td>
+      <td>🟡 백엔드, AI 추천 로직 개발</td>
+      <td>
+        <ul>
+          <li>이모지-감정 데이터셋 전처리</li>
+          <li>lanhchain 기반 프롬프트 관리</li>
+          <li>GPT 음식 추천 FastAPI , Spring-FastAPI 연동 API 개발</li>
+          <li>전체 프로젝트 문서화(Swagger, README, CONTRIBUTING, WIKI 등)</li>
+        </ul>
       </td>
-      <td align="center">
-        <a href="https://github.com/Head-ddy">
-          <img src="https://avatars.githubusercontent.com/Head-ddy" width="220px;" alt="라희수 프로필"/><br />
-          <sub><b>라희수</b></sub><br />
-          <sub>프론트엔드 개발<br />PM<br />UI/UX 디자인</sub><br/>
-           <sub>프론트엔드 전체 개발<br/></sub>
-           <sub>프론트엔드 배포(Vercel)</sub>
-        </a>
+    </tr>
+    <tr>
+      <td>라희수</td>
+      <td>🟡 프론트엔드 개발, PM, Design</td>
+      <td>
+        <ul>
+          <li>React, Next 기반 프론트엔드 전체 개발</li>
+          <li>Figma 기반 UI/UX Design</li>
+          <li>Vercel 기반 프론트엔드 배포</li>
+          <li>Github Action 기반 CI/CD 자동 배포</li>
+        </ul>
       </td>
-      <td align="center">
-        <a href="https://github.com/mingyulee327">
-          <img src="https://avatars.githubusercontent.com/mingyulee327" width="220px;" alt="이민규 프로필"/><br />
-          <sub><b>이민규</b></sub><br />
-          <sub>백엔드 개발<br />
-             서비스 기획<br />
-             로그인/회원가입, 즐겨찾기, 프로필 API 개발<br />
-             Spring Security 관리<br/>
-          </sub>
-        </a>
+    </tr>
+    <tr>
+      <td>이민규</td>
+      <td>🟡 백엔드 개발, 기획</td>
+      <td>
+        <ul>
+          <li>로그인/회원가입, 즐겨찾기, 프로필 API 개발</li>
+          <li>Spring Security 기반 JWT 토큰 관리</li>
+          <li>보안 및 서버 모니터링</li>
+          <li>서비스 기획</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>공동 작업</td>
+      <td>🟡 테스트</td>
+      <td>
+        <ul>
+          <li>QA 및 테스트</li>
+        </ul>
       </td>
     </tr>
   </tbody>
