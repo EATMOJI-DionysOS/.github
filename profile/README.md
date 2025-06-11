@@ -69,39 +69,44 @@
     <tr>
       <td align="center">
         <a href="https://github.com/sseobi16">
-          <img src="https://avatars.githubusercontent.com/sseobi16" width="120px;" alt="고준섭 프로필"/><br />
+          <img src="https://avatars.githubusercontent.com/sseobi16" width="220px;" alt="고준섭 프로필"/><br />
           <sub><b>고준섭</b></sub><br />
           <sub>백엔드 개발<br />
-             AWS EC2 배포<br />
+             백엔드 서버 배포(AWS EC2)<br />
              DB 연동<br />
-             통합 API 개발<br />
+             레시피 API 개발<br />
           </sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/jinha0907">
-          <img src="https://avatars.githubusercontent.com/jinha0907" width="120px;" alt="김진하 프로필"/><br />
+          <img src="https://avatars.githubusercontent.com/jinha0907" width="220px;" alt="김진하 프로필"/><br />
           <sub><b>김진하</b></sub><br />
           <sub>백엔드 개발<br />
-             AI 추천 시스템 개발<br />
-             문서화 담당<br />
+             데이터셋 전처리, 프롬프트 최적화<br/>
+             AI 추천 API 개발(FastAPI)<br/>
+             spring-fastapi 연동 API 개발<br/> 
+             프로젝트 문서화 담당<br />
           </sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Head-ddy">
-          <img src="https://avatars.githubusercontent.com/Head-ddy" width="120px;" alt="라희수 프로필"/><br />
+          <img src="https://avatars.githubusercontent.com/Head-ddy" width="220px;" alt="라희수 프로필"/><br />
           <sub><b>라희수</b></sub><br />
-          <sub>프론트엔드 개발<br />PM<br />UI/UX 디자인</sub>
+          <sub>프론트엔드 개발<br />PM<br />UI/UX 디자인</sub><br/>
+           <sub>프론트엔드 전체 개발<br/></sub>
+           <sub>프론트엔드 배포(Vercel)</sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/mingyulee327">
-          <img src="https://avatars.githubusercontent.com/mingyulee327" width="120px;" alt="이민규 프로필"/><br />
+          <img src="https://avatars.githubusercontent.com/mingyulee327" width="220px;" alt="이민규 프로필"/><br />
           <sub><b>이민규</b></sub><br />
           <sub>백엔드 개발<br />
              서비스 기획<br />
-             통합 API 개발<br />
+             로그인/회원가입, 즐겨찾기, 프로필 API 개발<br />
+             Spring Security 관리<br/>
           </sub>
         </a>
       </td>
