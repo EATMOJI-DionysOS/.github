@@ -13,6 +13,8 @@
 - ⚡️ Spring Boot와 FastAPI를 연동하여, GPT-4o 기반 AI 추천 결과를 제공합니다
 - 🗃️ MongoDB로 사용자 기록 관리 및 분석
 
+**[🔗 GitHub Wiki에서 더 자세히 보기](https://github.com/EATMOJI-DionysOS/Eatmoji_BE/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5)**
+
 ---
 
 ## 🛎️ 서비스 이용 방법
