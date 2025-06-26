@@ -75,6 +75,7 @@
   <thead>
     <tr>
       <th>이름</th>
+       <th>ID</th>
       <th>역할</th>
       <th>상세 내용</th>
     </tr>
@@ -82,6 +83,7 @@
   <tbody>
     <tr>
       <td>고준섭</td>
+       <td>sseobi16</td>
       <td>🟡 백엔드 개발, 배포 및 운영 관리</td>
       <td>
         <ul>
@@ -94,6 +96,7 @@
     </tr>
     <tr>
       <td>김진하</td>
+       <td>jinha0907</td>
       <td>🟡 백엔드, AI 추천 로직 개발</td>
       <td>
         <ul>
@@ -106,6 +109,7 @@
     </tr>
     <tr>
       <td>라희수</td>
+       <td>Head-ddy</td>
       <td>🟡 프론트엔드 개발, PM, Design</td>
       <td>
         <ul>
@@ -118,6 +122,7 @@
     </tr>
     <tr>
       <td>이민규</td>
+       <td>mingyulee327</td>
       <td>🟡 백엔드 개발, 기획</td>
       <td>
         <ul>
@@ -130,6 +135,7 @@
     </tr>
     <tr>
       <td>공동 작업</td>
+       <td> </td>
       <td>🟡 테스트</td>
       <td>
         <ul>
